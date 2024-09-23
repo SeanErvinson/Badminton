@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "767167843892",
+    "project_id": "project-badminton-87f15",
+    "storage_bucket": "project-badminton-87f15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767167843892:android:9d72e9f1167bd6b78b8461",
+        "android_client_info": {
+          "package_name": "com.example.baddie_master"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJnKSrEtPsw__qJUfcBptH1XtvMIF-Kyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
